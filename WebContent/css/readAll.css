@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.main-title{
+	text-align:center;
+	color:#ff4900;
+	background:#fff;
+}
+
+.mainLeft{
+	margin-bottom:20px;
+}
+
+.main-content{
+	background:#fcf8e3;
+	height:auto;
+	width:auto;
+	//overflow-y:auto;
+	margin-bottom:20px;
+}
+.main-comments{
+	background:#fff;
+	height:auto;
+	weight:200px; 
+}
+
+
+#commentInp{
+	text-align:left;
+	width:100%;
+	line-height:nomal;
+	font-size:18px;
+	height:34px;
+	resize:none;
+}
+
+#MW-control{
+	width:100%;
+	height:30px;
+	display:none;
+	white-space:nowrap;
+}
+#MW-control button{
+	float:right;
+	margin-left:10px;
+}
